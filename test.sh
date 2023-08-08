@@ -1,1 +1,2 @@
-echo hello world
+echo i failed
+exit 1
